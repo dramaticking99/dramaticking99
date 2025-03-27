@@ -9,7 +9,6 @@ I'm a developer with a keen interest in both creative projects and cutting-edge 
 ## Projects
 
 - **DJ Project:** An innovative project where I integrated music and technology to create a unique interactive experience. This project allowed me to explore different aspects of software and multimedia integration.
-- *(Additional projects can be added here as you work on more ideas!)*
 
 ## Internship Experience
 
