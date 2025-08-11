@@ -1,16 +1,33 @@
-# Hi there, I'm @dramaticking99 👋
+# dramaticking99 / chetan
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in creative projects and hands-on professional work.
+shipping browsers, beats, and backend glue.
 
-## About Me
+> now: contributing to a Chromium-based Android browser @ wootzapp  
+> focus: c++/java, ui polish, perf, android↔chromium wiring
 
-I'm a developer with a keen interest in both creative projects and cutting-edge technology. I'm always looking to learn and grow, and I love exploring new ideas in development.
+---
 
+## build sheet
+- iOS: Swift, SwiftUI, UIKit, Core Data
+- android: java, ndk
+- desktop/audio: juce, c++
+- backend: node, django, rest
+- misc: gn/ninja, xmpp, a bit of ml
 
-## Connect with Me
+## ship log
+- **Skin-Talk** — ml skin condition detector (python + js, server chaining)  
+  repo → https://github.com/dramaticking99/SkinTalk_Project
+- **dj mixer** — real-time audio app (juce/c++). Demo on request.
+- **chatwise (intern)** — shipped xmpp chat features; tuned swift/objc core data stacks.
 
-I'm always open to networking and collaboration! Feel free to reach out if you want to discuss projects or potential opportunities.
+## working notes
+- small changes > big rewrites
+- fast + simple ui > clever + confusing
+- measure before “optimise”
 
-- **Instagram:** (https://www.instagram.com/chetan664_/)
-
-Thank you for visiting my profile. Happy coding!
+## links
+github → https://github.com/dramaticking99  
+linkedin → http://www.linkedin.com/in/chetan-557562272  
+gitlab → https://gitlab.com/DramaticKing  
+instagram → https://www.instagram.com/chetan664_/  
+email → cksanwariya6@gmail.com
